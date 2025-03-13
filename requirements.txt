@@ -1,0 +1,5 @@
+gradio
+ollama
+PyPDF2
+Pillow
+python-dotenv
